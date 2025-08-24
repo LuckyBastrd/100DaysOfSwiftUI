@@ -3,8 +3,8 @@ This repository contains my solutions and experiments from the free [100 Days of
 
 ## 🚀 How to Use
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/100DaysOfSwiftUI.git
-   cd 100DaysOfSwiftUI
+   - git clone https://github.com/LuckyBastrd/100DaysOfSwiftUI.git
+   - cd 100DaysOfSwiftUI
 
 2. Open any project in **Xcode**:
    - Navigate into a `Projects/` or `Challenges/` folder.
