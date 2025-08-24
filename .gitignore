@@ -1,0 +1,39 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Accio dependency manager
+Dependencies/
+.accio/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# SwiftLint / SwiftFormat
+.swiftlint.yml
+.swiftformat
+
+# Misc
+.DS_Store
+*.swp
+*.lock
